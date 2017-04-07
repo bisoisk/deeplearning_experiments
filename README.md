@@ -1,12 +1,8 @@
 This repo contains notes, experiments and projects on Deep Learning carried out
 as part of the Udacity Deep Learning Nanodegree and personal reasearch.
 
-## Project 1 - Predict daily bike rental ridership
-[](https://github.com/marcocampana/deeplearnig_nd_udacity/tree/master/project1)
-
-## Project 2 - CNN for image classification trained on the CIFAR-10 dataset
-[](https://github.com/marcocampana/deeplearnig_nd_udacity/tree/master/image_classification)
-
+[Project 1 - Predict daily bike rental ridership](https://github.com/marcocampana/deeplearnig_nd_udacity/tree/master/project1)
+[Project 2 - CNN for image classification trained on the CIFAR-10 dataset](https://github.com/marcocampana/deeplearnig_nd_udacity/tree/master/image_classification)
 
 ##Resources
 A list of reading/watching resources on Deep Learning.
@@ -39,6 +35,7 @@ A list of reading/watching resources on Deep Learning.
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 [Deep Learning Book chapter on RNNs](http://www.deeplearningbook.org/contents/rnn.html)
 [Andrej Karpathy's lecture on Recurrent Neural Networks](https://www.youtube.com/watch?v=iX5V1WpxxkY)
+[Recurrent Neural Networks in Tensorflow I](http://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html)
 
 ###NLP
 [Bag-of-words model - Wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model)
